@@ -1,0 +1,40 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/item_frame"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 7452001}, "model": "painted_flower_pots/flower_pot_white"},
+        {"predicate": {"custom_model_data": 7452002}, "model": "painted_flower_pots/flower_pot_orange"},
+        {"predicate": {"custom_model_data": 7452003}, "model": "painted_flower_pots/flower_pot_magenta"},
+        {"predicate": {"custom_model_data": 7452004}, "model": "painted_flower_pots/flower_pot_light_blue"},
+        {"predicate": {"custom_model_data": 7452005}, "model": "painted_flower_pots/flower_pot_yellow"},
+        {"predicate": {"custom_model_data": 7452006}, "model": "painted_flower_pots/flower_pot_lime"},
+        {"predicate": {"custom_model_data": 7452007}, "model": "painted_flower_pots/flower_pot_pink"},
+        {"predicate": {"custom_model_data": 7452008}, "model": "painted_flower_pots/flower_pot_gray"},
+        {"predicate": {"custom_model_data": 7452009}, "model": "painted_flower_pots/flower_pot_light_gray"},
+        {"predicate": {"custom_model_data": 7452010}, "model": "painted_flower_pots/flower_pot_cyan"},
+        {"predicate": {"custom_model_data": 7452011}, "model": "painted_flower_pots/flower_pot_purple"},
+        {"predicate": {"custom_model_data": 7452012}, "model": "painted_flower_pots/flower_pot_blue"},
+        {"predicate": {"custom_model_data": 7452013}, "model": "painted_flower_pots/flower_pot_brown"},
+        {"predicate": {"custom_model_data": 7452014}, "model": "painted_flower_pots/flower_pot_green"},
+        {"predicate": {"custom_model_data": 7452015}, "model": "painted_flower_pots/flower_pot_red"},
+        {"predicate": {"custom_model_data": 7452016}, "model": "painted_flower_pots/flower_pot_black"},
+        {"predicate": {"custom_model_data": 7452101}, "model": "painted_flower_pot_items/flower_pot_white"},
+        {"predicate": {"custom_model_data": 7452102}, "model": "painted_flower_pot_items/flower_pot_orange"},
+        {"predicate": {"custom_model_data": 7452103}, "model": "painted_flower_pot_items/flower_pot_magenta"},
+        {"predicate": {"custom_model_data": 7452104}, "model": "painted_flower_pot_items/flower_pot_light_blue"},
+        {"predicate": {"custom_model_data": 7452105}, "model": "painted_flower_pot_items/flower_pot_yellow"},
+        {"predicate": {"custom_model_data": 7452106}, "model": "painted_flower_pot_items/flower_pot_lime"},
+        {"predicate": {"custom_model_data": 7452107}, "model": "painted_flower_pot_items/flower_pot_pink"},
+        {"predicate": {"custom_model_data": 7452108}, "model": "painted_flower_pot_items/flower_pot_gray"},
+        {"predicate": {"custom_model_data": 7452109}, "model": "painted_flower_pot_items/flower_pot_light_gray"},
+        {"predicate": {"custom_model_data": 7452110}, "model": "painted_flower_pot_items/flower_pot_cyan"},
+        {"predicate": {"custom_model_data": 7452111}, "model": "painted_flower_pot_items/flower_pot_purple"},
+        {"predicate": {"custom_model_data": 7452112}, "model": "painted_flower_pot_items/flower_pot_blue"},
+        {"predicate": {"custom_model_data": 7452113}, "model": "painted_flower_pot_items/flower_pot_brown"},
+        {"predicate": {"custom_model_data": 7452114}, "model": "painted_flower_pot_items/flower_pot_green"},
+        {"predicate": {"custom_model_data": 7452115}, "model": "painted_flower_pot_items/flower_pot_red"},
+        {"predicate": {"custom_model_data": 7452116}, "model": "painted_flower_pot_items/flower_pot_black"}
+    ]
+}

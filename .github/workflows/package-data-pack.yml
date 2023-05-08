@@ -15,4 +15,5 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-artifact@v3.1.2
         with:
+          name: painted-flower-pots.zip
           path: painted-flower-pots.zip

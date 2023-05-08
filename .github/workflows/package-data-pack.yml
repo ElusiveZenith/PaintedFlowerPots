@@ -10,10 +10,10 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Zip Data Pack
-        run: zip -r painted-flower-pots.zip . -x .git\*
+        run: zip -r "Painted Flower Pots.zip" . -x .git\*
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v3.1.2
         with:
-          name: painted-flower-pots.zip
-          path: painted-flower-pots.zip
+          name: PaintedFlowerPotsPackage
+          path: "Painted Flower Pots.zip"
